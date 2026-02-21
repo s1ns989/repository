@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+sentence-transformers
+faiss-cpu
+numpy
+transformers
+torch
+detoxify
+flask
+requests
